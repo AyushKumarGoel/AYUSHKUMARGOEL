@@ -25,7 +25,10 @@
 </p>
 <br>
 <hr>
-<p align = "left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushKumarGoel&show_icons=true&locale=en" alt="AyushKumarGoel" /></p>
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AyushKumarGoel&show_icons=true&theme=gotham" alt="AyushKumarGoel" />
 <p align = "right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKumarGoel&" alt="AyushKumarGoel" /></p>
 <br>
 <hr>
@@ -43,8 +46,3 @@
 
 ![Snake animation](https://github.com/AyushKumarGoel/AyushKumarGoel/blob/output/github-contribution-grid-snake.svg)
 
-<hr>
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AyushKumarGoel&show_icons=true&theme=gotham" alt="AyushKumarGoel" />
