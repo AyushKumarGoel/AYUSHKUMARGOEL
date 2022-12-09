@@ -40,5 +40,4 @@
   **Snake Eating My Contribution Graph
 </p>
 
-![snake gif](https://github.com/AyushKumarGoel/AyushKumarGoel/blob/output/github-contribution-grid-snake.gif)
-
+![Snake animation](https://github.com/AyushKumarGoel/AyushKumarGoel/blob/output/github-contribution-grid-snake.svg)
