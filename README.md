@@ -23,11 +23,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKumarGoel&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 </p>'
-<p align = "center">
-<a href="https://github.com/AyushKumarGoel">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKumarGoel&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</p>
 <br>
 <hr>
 <p align = "left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushKumarGoel&show_icons=true&locale=en" alt="AyushKumarGoel" /></p>
