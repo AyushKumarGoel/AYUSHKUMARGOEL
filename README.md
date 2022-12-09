@@ -36,9 +36,7 @@
 
 <!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=AyushKumarGoel&theme=rogue) -->
 ![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AyushKumarGoel&theme=rogue)
- <hr>
- <br>
- <p>SNAKE EATING MY CONTRIBUTION GRAPH </p>
+ 
 ![snake gif](https://github.com/AyushKumarGoel/AyushKumarGoel/blob/output/github-contribution-grid-snake.gif)
 
 
