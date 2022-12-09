@@ -42,3 +42,9 @@
 </p>
 
 ![Snake animation](https://github.com/AyushKumarGoel/AyushKumarGoel/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AyushKumarGoel&show_icons=true&theme=gotham" alt="AyushKumarGoel" />
