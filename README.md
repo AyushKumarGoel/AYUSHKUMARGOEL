@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumargoel&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumargoel" /> </p>
 
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, Amazon Web Services(AWS), Web Development**
+- 🌱 I’m currently learning **Data Structures, Algorithms, Amazon Web Services(AWS) and Web Development**
 
-- 💬 Ask me about **C,Python,MySQL**
+- 💬 Ask me about **C, Python, MySQL, HTML, CSS and Javascript**
 
 - 📫 How to reach me **ayush.21b0101007@abes.ac.in**
 
