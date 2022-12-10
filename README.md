@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C, Python, MySQL, HTML, CSS and Javascript**
 
-- 📫 How to reach me **ayush.21b0101007@abes.ac.in**
+- 📫 How to reach me **ayushkumargoel804@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
