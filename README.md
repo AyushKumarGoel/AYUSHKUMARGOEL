@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms,Data Science and Web Development**
 
-- 💬 Ask me about **C, Python, MySQL, HTML, CSS and Javascript**
+- 💬 Ask me about **C, C++, Python, MySQL, HTML, CSS and Javascript**
 
 - 📫 How to reach me **ayushkumargoel804@gmail.com**
 
