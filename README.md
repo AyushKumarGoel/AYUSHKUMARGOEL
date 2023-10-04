@@ -38,17 +38,3 @@
 <p align = "right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKumarGoel&" alt="AyushKumarGoel" /></p>
 <br>
 <hr>
-<!-- ## &#x1f4c8; GitHub Stats
-<p align = "center">
-
-
-<!-- ![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=AyushKumarGoel&theme=rogue) -->
-![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AyushKumarGoel&theme=rogue)
-<hr>
-<br>
-
-<p>
-  **Snake Eating My Contribution Graph
-</p>
-
-![Snake animation](https://github.com/AyushKumarGoel/AyushKumarGoel/blob/output/github-contribution-grid-snake.svg) -->
